@@ -1,0 +1,30 @@
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.AssemblyReference.cache
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
+E:\Garota de Programa (CC)\visual codinhos\Criptografia\Criptografia\obj\Debug\Criptografia.projeto.resources
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.AssemblyReference.cache
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.projeto.resources
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\igorp\Downloads\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.AssemblyReference.cache
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.projeto.resources
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
