@@ -28,3 +28,17 @@ C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Cr
 C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
 C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.exe
 C:\Users\igorp\Downloads\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.AssemblyReference.cache
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.projeto.resources
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.exe.manifest
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\bin\Debug\Criptografia.application
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.exe.manifest
+C:\Users\igorp\OneDrive\Área de Trabalho\Faculdade\CriptografiaFinal (1)\CriptografiaFinal\Criptografia\Criptografia\obj\Debug\Criptografia.application
